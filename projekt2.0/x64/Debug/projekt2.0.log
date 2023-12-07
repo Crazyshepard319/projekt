@@ -1,0 +1,4 @@
+﻿  projekt2.0.cpp
+C:\Users\groch\OneDrive\Pulpit\programowanie STOS\projekt2.0\projekt2.0\projekt2.0.cpp(396,29): warning C4267: "return": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\groch\OneDrive\Pulpit\programowanie STOS\projekt2.0\projekt2.0\projekt2.0.cpp(400,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  projekt2.0.vcxproj -> C:\Users\groch\OneDrive\Pulpit\programowanie STOS\projekt2.0\x64\Debug\projekt2.0.exe
